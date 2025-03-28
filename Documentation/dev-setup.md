@@ -1,0 +1,31 @@
+
+
+I am using ...
+- MacBook Pro M1, Apple Silicon 16GB/512GB
+- Docker Desktop 4.40
+    - incl. experimental features enabled
+    - Builder: default docker linux v0.20.1 (I used colima in the past)
+- ddev.com for orchestration a Docker development (web, php, nginx, mariadb)
+    - incl. phpmyadmin add-on
+    - xdebug
+- Jetbrains phpStorm with a few strongly recommended plugins
+    - DDEV Integration (to easy deploy PHP and Debug config)
+    - .env files support
+    - PHP Annotations
+    - .ignore (to manage consistent .gitignore files)
+    - Database Tools and SQL (bundled), the essentials of DataGrip
+- other Jetbrains plugins that I use (not neccesarry)
+    - Gemini Code Assist (Google AI, free plan)
+    - IntelliPHP AI Autocomplete (paid plan)
+    - Laravel Ideas (paid)
+    - Symfony Support by espende_de (paid)
+    - BashSupport Pro (paid), Shell-Scripting incl. Debugger
+    - Jetbrains AI (paid)
+    - Gitea (to connect to self-hostet Forgejo, a free Gitea fork)
+    - Gitea Issues
+    - WakaTime (personal timetracker with some gamification metrics)
+- AI that I currently use / experiment in the development area
+    - JetBrains AI (cloud, paid), seamlessly integrated in my IDE
+    - Google Gemini AI (cloud, free), via Plugin in my IDE
+    - Jetbrains Plugin MCP (local, free) via Docker AI container
+    - experimental: via local LMStudio (local, free)

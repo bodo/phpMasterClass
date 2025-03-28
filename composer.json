@@ -1,0 +1,20 @@
+{
+    "name": "bodo/php-master-class",
+    "description": "Exploring the latest PHP OO Features by implementing a CRUD System with an Storage Layer, for example SQL.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bodo\\PhpMasterClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bodo Eichstädt",
+            "email": "bodoeichstaedt@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
