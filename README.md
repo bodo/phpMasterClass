@@ -1,7 +1,7 @@
 
 # phpMasterClass
 
-This repo is a playground for exploring established and latest PHP OO Features.
+This repo is a playground for general object oriented paradigms in the context of PHP OO and it's latest Versions.
 
 Topics in this repo loosely follow the course ITSYS1_AE of B-WI138-U-FI_240617 from 03/2025.
 
